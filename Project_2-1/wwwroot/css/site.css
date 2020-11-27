@@ -1,0 +1,26 @@
+﻿body {
+
+    padding: 1cm;
+    font-family: Arial, Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    margin-top: 0;
+    color: navy; 
+}
+
+label {
+
+    display: inline-block;
+    width: 10cm;
+    padding-right: 1cm;
+}
+
+div {
+
+    margin-bottom: .5cm;
+}
+.validation-summary-errors {
+
+    color: darkred;
+}
